@@ -1,2 +1,2 @@
 # GameTeam2
-! construction zone !
+2024 2학기 게임 2팀입니다.
